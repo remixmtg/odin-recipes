@@ -1,0 +1,41 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: lightyellow;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: darkblue;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: green;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }
+
+  h1, h3 {
+    color: darkblue;
+  }
+
+  p {
+    color: darkslategrey;
+    font-weight: 600;
+  }
+
+  li {
+    color: darkslategrey;
+    font-weight: 800;
+  }
+
+  
